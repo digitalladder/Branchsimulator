@@ -31,7 +31,7 @@ int main()
 	//initialize counters
 
 	ifstream configure;
-	configure.open("config_new.txt");
+	configure.open("config.txt");
 	if (configure.is_open())
 	{
 		getline(configure, line);
