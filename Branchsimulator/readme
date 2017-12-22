@@ -1,0 +1,8 @@
+Compile the codes using command:Make.
+The code has already compiled, so using the command:
+"./branchsimulator.out config.txt trace.txt"
+will execute the simulator.
+You can see prediction result in file 'trace.txt.out'.
+In the file "branchsimulator.cpp" is the main code.
+The config file 'config.txt' contains two lines, the first with the value of m and the second with the value of k.
+The trace file, trace.txt, contains one branch per line. 
